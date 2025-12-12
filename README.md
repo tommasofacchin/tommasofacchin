@@ -54,7 +54,7 @@ These days I'm deep in machine learning stuff, particularly NLP. I really enjoy 
 
 ## Education
 
-**Bachelor's Degree in Data Science** - *Ca' Foscari University, Venice* (2022 - 2026) - Specialized in programming, mathematics, data analysis, and artificial intelligence with a focus on machine learning.
+**Bachelor's Degree in Data Science** - *Ca' Foscari University, Venice* (2022 - 2026) - Specialized in programming, mathematics, data analysis, and artificial intelligence.
 
 **High School Diploma in IT and Communication** - *I.I.S. Einaudi-Scarpa, Montebelluna* (2017 - 2022) - Technical institute where I built a foundation in programming, algorithm design, database management, and computer security. This is where I started my coding journey with Unity and game development.
 
@@ -75,9 +75,9 @@ These days I'm deep in machine learning stuff, particularly NLP. I really enjoy 
 
 You'll probably find me taking photos of the night sky, playing around with freestyle football tricks, or planning my next trip somewhere.
 
-I love cooking and eating food from all over the world. My music taste purely depends on my mood, from K-pop to country without any warning.
+I love cooking and eating food from all over the world. My music taste ranges from country to K-pop and purely depends on my mood.
 
-On the chill side, I enjoy a good whisky and the occasional cigar.
+I like a good whisky with an occasional cigar,and yes, I'm that guy who enjoys wearing a suit even when it's not required.
 
 I also spent a few years as a football referee and working as a waiter, learned a lot about staying calm under pressure and dealing with people!
 
