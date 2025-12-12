@@ -71,13 +71,27 @@ These days I'm deep in machine learning stuff, particularly NLP. I really enjoy 
 
 ---
 
+## Certifications
+
+**IELTS Academic** *(Nov 2025)* - Band 7.5 (English C1)
+
+**Oracle Cloud Infrastructure (OCI) 2025 Data Science Professional** *(Oct 2025)* - [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DBC306CF656EFF935302848F10DBBDEEB8534F4583134890BD85E4D6BF992CE1)
+
+**Oracle Cloud Infrastructure (OCI) 2025 Generative AI Professional** *(Oct 2025)* - [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B041E5986EA036DD11617C6E9B9ED9A67C8C5D8094AF40AFD71AF5129E57349B)
+
+**Oracle Cloud Infrastructure (OCI) 2025 AI Foundations Associate** *(Oct 2025)* - [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=10B4BE3131A69D3403411172C572FEDC8556EB43DF1708D407D67EC9D142515D)
+
+**Cisco Certified Network Associate Security (CCNA)** *(Jun 2022)*
+
+---
+
 ## When I'm not coding
 
 You'll probably find me taking photos of the night sky, playing around with freestyle football tricks, or planning my next trip somewhere.
 
 I love cooking and eating food from all over the world. My music taste ranges from country to K-pop and purely depends on my mood.
 
-I like a good whisky with an occasional cigar,and yes, I'm that guy who enjoys wearing a suit even when it's not required.
+I like a good whisky with an occasional cigar, and yes, I'm that guy who enjoys wearing a suit even when it's not required.
 
 I also spent a few years as a football referee and working as a waiter, learned a lot about staying calm under pressure and dealing with people!
 
