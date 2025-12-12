@@ -62,14 +62,22 @@ These days I'm deep in machine learning stuff, particularly NLP. I really enjoy 
 
 ## Work Experience
 
+**Isoft Srl** - *Software Developer* (Nov 2023 - Present)  
+Working on an ERP system designed for jewelry manufacturing companies:
+- Database management and optimization on SQL Server
+- Maintaining and developing features in VB.NET for the main application
+- Building Python automation scripts to streamline business processes
+- Developing REST APIs in C# for third-party integrations
+- Creating custom reports and dashboards using DevExpress and Crystal Reports
+- Designed and implemented an order forecasting system to improve production planning
+- Completely rebuilt the outdated MRP forecasting system from scratch
+- Providing customer support and implementing custom features based on client requests
+
 **GateDev** - *Android Developer Intern* (June 2021, 3 weeks) - Developed Android applications using Flutter and Dart. Designed custom layouts and widgets, gaining hands-on experience with the framework in a professional development environment.
 
 **2M Decori** - *Software Developer Intern* (July 2023, 1 month) - Built a Windows Form application in C# to manage a web dashboard. Created the dashboard structure using HTML, CSS, and JavaScript, and handled document digitalization for Industry 4.0.
 
 **Forno d'Asolo** - *IT Support Intern* (January 2020, 2 weeks) - School internship where I configured personalized tablets and installed custom applications for courier services.
-
-
----
 
 ## Certifications
 
