@@ -63,9 +63,9 @@ Working on an ERP system designed for jewelry manufacturing companies:
 - Completely rebuilt the outdated MRP forecasting system from scratch
 - Providing customer support and implementing custom features based on client requests
 
-**GateDev** - *Android Developer Intern* (June 2021, 3 weeks) - Developed Android applications using Flutter and Dart. Designed custom layouts and widgets, gaining hands-on experience with the framework in a professional development environment.
-
 **2M Decori** - *Software Developer Intern* (July 2023, 1 month) - Built a Windows Form application in C# to manage a web dashboard. Created the dashboard structure using HTML, CSS, and JavaScript, and handled document digitalization for Industry 4.0.
+
+**GateDev** - *Android Developer Intern* (June 2021, 3 weeks) - Developed Android applications using Flutter and Dart. Designed custom layouts and widgets, gaining hands-on experience with the framework in a professional development environment.
 
 **Forno d'Asolo** - *IT Support Intern* (January 2020, 2 weeks) - School internship where I configured personalized tablets and installed custom applications for courier services.
 
@@ -90,7 +90,13 @@ Working on an ERP system designed for jewelry manufacturing companies:
 - **Chinese:** HSK1 (basic)
  
 ---
-  
+
+## 🤝 Volunteering
+
+- Regular blood donor with **AVIS** (Italian blood donation association) since 2020.
+
+---
+
 ## 🎮 When I'm not coding
 
 You'll probably find me taking photos of the night sky, playing around with freestyle football tricks, or planning my next trip somewhere.
