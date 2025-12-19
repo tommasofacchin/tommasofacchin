@@ -12,20 +12,24 @@ These days I'm deep into machine learning, especially NLP. I like understanding 
 
 ## 💻 Tech Stack
 
-**Best Languages:** C#, Python, Visual Basic, SQL  
-**Comfortable Languages:** C++, Java, JavaScript (React, React Native)  
-**Data Science & ML:** Pandas, NumPy, Scikit-learn
-**Databases:** SQL Server, PostgreSQL   
-**Tools & Frameworks:** .NET, Git, Flutter, DevExpress   
-**Game Development:** Unity  
-**Learning:** TensorFlow, PyTorch
+**Best Languages:** C#, Python, Visual Basic, SQL   
+**Comfortable Languages:** C++, Java, JavaScript (React, React Native)    
+**Data Science & ML:** Pandas, NumPy, Scikit-learn  
+**Databases:** SQL Server, PostgreSQL        
+**Tools & Frameworks:** .NET, Git, Flutter, DevExpress     
+**Game Development:** Unity   
+**Learning:** TensorFlow, PyTorch  
 
 ---
 
 ## 📂 Recent Projects
 *(Stars indicate project complexity and proudness)*
 
-**[Transformer from Scratch](https://github.com/tommasofacchin/text-summarization-transformer)** ★★★★☆ - Building a text summarization model with **TensorFlow** and **Python** from the ground up. Still a work in progress, but learning a ton about attention mechanisms and transformer architecture.
+**[Transformer from Scratch](https://github.com/tommasofacchin/text-summarization-transformer)** ★★★★★ - Building a text summarization model with **TensorFlow** and **Python** from the ground up. Still a work in progress, but learning a ton about attention mechanisms and transformer architecture.
+
+**[Christmas Story Generator](https://github.com/tommasofacchin/christmas-story-generator)** ★★☆☆☆ - Streamlit web app that creates cozy Christmas storybooks for kids using Groq + Datapizza LLMs for text and PyTorch + diffusers (SDXL) for one illustration per scene, with a full local end‑to‑end pipeline (story, images, PDF).
+
+**[JobFitIndex](https://github.com/tommasofacchin/job-fit-index)** ★★☆☆☆ - AI-native anti-portfolio built with Python, Streamlit, SQLite and OpenRouter LLMs. Developed in a 48-hour Cosmico hackathon, it runs structured AI interviews, scores candidates on five criteria, and exports narrative Markdown anti-portfolios.
 
 **[C++ Tokenizer](https://github.com/tommasofacchin/ft-tokenize)** ★★☆☆☆ - Small tokenizer supporting word-level and BPE tokenization, written in **C++** and usable in **Python** via PyPI.
 
@@ -38,7 +42,6 @@ These days I'm deep into machine learning, especially NLP. I like understanding 
 **[Procedural Tilemap Generator](https://github.com/tommasofacchin/Markov-Wave-Function-Collapse)** ★★★☆☆ - Generates 2D tilemaps in **Unity** with **C#**, combining Wave Function Collapse and Markov Chains for procedural content generation.
 
 **[Soul Hunter](https://tommasodev.itch.io/soul-hunter)** ★★★★★ - Top-down shooter made in **Unity** with **C#**, a long-term personal project that took many hours of work to complete. Free to play on itch.io if you want to check it out.
-
 
 ---
 
