@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I’m Tommaso, a software developer at an ERP company and a Data Science graduate at Ca’ Foscari University in Venice, currently pursuing a MicroMasters in Statistics and Data Science from MITx.
+I’m Tommaso, a software developer at an ERP company and a Data Science graduate at Ca’ Foscari University of Venice, currently pursuing a MicroMasters in Statistics and Data Science from MITx.
 
 I started programming in high school, building video games with Unity and learning C#, which remains my favorite language. These days I focus on machine learning and NLP, enjoying both the theory and building end-to-end projects.
 
@@ -64,13 +64,6 @@ I started programming in high school, building video games with Unity and learni
 - **Spanish:** B2 
 - **Chinese:** HSK1 
  
----
-
-## 🎮 When I'm not coding
-
-I enjoy night sky photography, freestyle football, and traveling. I love cooking, wearing suits, and occasionally enjoying a good whisky with a cigar.
-I've also spent several years as a football referee and waiter, and I've been a regular blood donor with **AVIS** since 2020.
-
 ---
 
 ## 🤝 Let's connect
