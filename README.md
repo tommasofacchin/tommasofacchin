@@ -19,7 +19,7 @@ I started programming in high school, building video games with Unity and learni
 
 ---
 
-## 📂 Selected Projects
+## 📂 Projects
 
 **[Transformer from Scratch](https://github.com/tommasofacchin/text-summarization-transformer)** – Text summarization model with TensorFlow & Python, from scratch.
 
@@ -31,7 +31,7 @@ I started programming in high school, building video games with Unity and learni
 
 **[Genetic Algorithm from Scratch](https://www.github.com/tommasofacchin/genetic-algorithm-from-scratch)** – Generic GA in Python, reusable class, applied to multiple tasks.
 
-*For the full list of projects, see [GitHub repositories](https://github.com/tommasofacchin?tab=repositories).*
+*For the full list of projects, see [all personal projects](https://tommasofacchin.github.io/projects.html).*
 
 ---
 
