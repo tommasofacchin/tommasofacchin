@@ -27,6 +27,8 @@ I started programming in high school, building video games with Unity and learni
 
 ## 🎓 Education
 
+**Master's Degree in Data Science** - *University of Stavanger, Norway* (2022 - 2026)
+
 **MicroMasters in Statistics and Data Science** - *MITx* (2026 - ongoing) - Graduate-level program on probability, statistics, ML, and time-series analysis.
 
 **Bachelor's Degree in Data Science** - *Ca' Foscari University, Venice* (2022 - 2026) - Specialized in programming, mathematics, data analysis, and artificial intelligence.
