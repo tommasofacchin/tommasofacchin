@@ -1,16 +1,14 @@
 # Hey! 👋
 
-I’m Tommaso, a Data Engineer at an ERP company and a Data Science graduate at Ca’ Foscari University of Venice, currently pursuing a Master Degree in Artificial Intelligence and Data Engineering at Ca' Foscari University of Venice and a MicroMasters in Statistics and Data Science from MITx.
+I’m Tommaso, a Data Engineer at an ERP company and a Data Science graduate at Ca’ Foscari University of Venice, currently pursuing a Master Degree in Data Science at University of Stavanger, in Norway.
 
-I started programming in high school, building video games with Unity and learning C#, which remains my favorite language. These days I focus on machine learning and NLP, enjoying both the theory and building end-to-end projects.
-
-📍 Venice, Italy  
+📍 Stavanger, Norway  
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** C#, Python, Visual Basic, SQL, Java, C++, R  
+**Languages:** C#, Python, Visual Basic, SQL, Java, C++, R, Go  
 **Python & Data Libraries:** NumPy, Pandas, scikit-learn, TensorFlow, PyTorch  
 **Data Science & ML:** regression and classification, NLP, LLMs, AI agents, Apache Spark  
 **Frameworks & Platforms:** .NET, React, React Native, Unity  
